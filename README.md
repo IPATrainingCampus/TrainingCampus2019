@@ -14,7 +14,7 @@ UIH-GS-IPA负责医学可视化平台及临床常规应用、VR/AR技术研发�
 
 ##领域知识
 
-[CT成像原理](Computed_Tomography\CT.md)
+[CT成像原理](./Computed_Tomography/CT.md)
 
 MR成像原理
 
