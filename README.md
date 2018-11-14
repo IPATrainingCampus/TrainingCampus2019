@@ -14,17 +14,17 @@ UIH-GS-IPA负责医学可视化平台及临床常规应用、VR/AR技术研发�
 
 ### 领域知识
 
-[CT成像原理](./Computed_Tomography/CT.md)
+这里提供了一些基本的参考书，大体分为以下几个方面：
 
-[MR成像原理](./Magnetic_Resonance_Imaging/MRI.md)
-
-[DICOM](./Digital_Imaging_and_Communication_in_Medicine/DICOM.md)
++ [CT成像原理](./Computed_Tomography/CT.md)
++ [MR成像原理](./Magnetic_Resonance_Imaging/MRI.md)
++ [DICOM](./Digital_Imaging_and_Communication_in_Medicine/DICOM.md)
 
 ### 编程技能
 
-编译三方库
+接下来的任务就需要大家锻炼动手能力了：
 
-进程间通信
-
-多线程编程
-
++ 编译三方库
++ 进程间通信
++ 多线程编程
++ DICOM图像显示
