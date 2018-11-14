@@ -17,7 +17,7 @@ UIH-GS-IPA负责医学可视化平台及临床常规应用、VR/AR技术研发�
 下面这些任务的目的在于锻炼大家的动手能力：
 
 + [编译三方库](./Third_Party_Library/README.md)
-+ 进程间通信
++ [进程间通信](./Interprocess_Communication/IPC.md)
 + 多线程编程
 + DICOM图像显示
 
