@@ -10,21 +10,21 @@ UIH-GS-IPA负责医学可视化平台及临床常规应用、VR/AR技术研发�
 
 医学影像后处理工作站可以对医学影像进行后处理操作，作为影像诊断或科研过程的辅助和支持，为影像科医生提供病情诊断辅助工具。目前，MR后处理影像工作站 , 包括图像拼接，动态分析，联合神经分析等10余款高级后处理应用。CT后处理影像工作站具有肺结节评估，血管分析，心功能分析等10余款高级应用。MI后处理工作站有肿瘤追踪，动态分析，脑分析，心脏分析等多款高级应用。
 
-## 训练营
-
-### 领域知识
-
-这里提供了一些基本的参考书，大体分为以下几个方面：
-
-+ [CT成像原理](./Computed_Tomography/CT.md)
-+ [MR成像原理](./Magnetic_Resonance_Imaging/MRI.md)
-+ [DICOM](./Digital_Imaging_and_Communication_in_Medicine/DICOM.md)
+## 入职前热身运动
 
 ### 编程技能
 
-接下来的任务就需要大家锻炼动手能力了：
+下面这些任务的目的在于锻炼大家的动手能力：
 
 + [编译三方库](./Third_Party_Library/README.md)
 + 进程间通信
 + 多线程编程
 + DICOM图像显示
+
+### 领域知识
+
+这里提供了一些基本的参考书，大体分为以下几个方面，在完成动手作业时作为参考：
+
++ [CT成像原理](./Computed_Tomography/CT.md)
++ [MR成像原理](./Magnetic_Resonance_Imaging/MRI.md)
++ [DICOM](./Digital_Imaging_and_Communication_in_Medicine/DICOM.md)
