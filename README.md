@@ -16,16 +16,16 @@ UIH-GS-IPA负责医学可视化平台及临床常规应用、VR/AR技术研发�
 
 下面这些任务的目的在于锻炼大家的动手能力：
 
-+ [学会使用Github](./Github/README.md)
-+ [编译三方库](./Third_Party_Library/README.md)
-+ [进程间通信](./Interprocess_Communication/README.md)
-+ [多线程编程](./Multithreading/README.md)
-+ [DICOM图像显示](./DICOM_Viewer/README.md)
++ [学会使用Github](./Github)
++ [编译三方库](./Third_Party_Library)
++ [进程间通信](./Interprocess_Communication)
++ [多线程编程](./Multithreading)
++ [DICOM图像显示](./DICOM_Viewer)
 
 ### 领域知识
 
 这里提供了一些基本的参考书，大体分为以下几个方面，在完成动手作业时作为参考：
 
-+ [CT成像原理](./Computed_Tomography/README.md)
-+ [MR成像原理](./Magnetic_Resonance_Imaging/README.md)
-+ [DICOM](./Digital_Imaging_and_Communication_in_Medicine/README.md)
++ [CT成像原理](./Computed_Tomography)
++ [MR成像原理](./Magnetic_Resonance_Imaging)
++ [DICOM](./Digital_Imaging_and_Communication_in_Medicine)
