@@ -5,6 +5,12 @@ class ConcurrentQueue
 //private:
 
 public:
+    // Constructor
+    ConcurrentQueue(const int kiMaxSize);
+    
+    // Destructor
+    virtual ~ConcurrentQueue();
+    
     // push one element into the queue from the back
     // please print the number of elements on the console
     void Push(const Data& data);
