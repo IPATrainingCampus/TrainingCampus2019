@@ -12,14 +12,14 @@ class ConcurrentQueue
 
 public:
     // Constructor
-    ConcurrentQueue(const int iMaxsize)
-        : m_kiMaxSize(iMaxsize)
+    ConcurrentQueue(const int kiMaxSize)
+        : m_kiMaxSize(kiMaxSize)
     {
 
     }
-
+    
     // Destructor
-    ~ConcurrentQueue()
+    virtual ~ConcurrentQueue()
     {
 
     }
