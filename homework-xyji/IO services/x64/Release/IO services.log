@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/12/26 14:05:05。
+     1>项目“D:\softwares\Visual Studio 2010\Projects\IO services\IO services\IO services.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“x64\Release\IO services.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         d:\softwares\Visual Studio 2010\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\softwares\Visual Studio 2010\Projects\IO services\x64\Release\IO services.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\softwares\Boost\boost_1_44_0\output-vs2010-release\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\IO services.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\softwares\Visual Studio 2010\Projects\IO services\x64\Release\IO services.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\softwares\Visual Studio 2010\Projects\IO services\x64\Release\IO services.lib" /MACHINE:X64 "x64\Release\IO services.obj"
+     1>LINK : fatal error LNK1104: 无法打开文件“libboost_system-vc100-mt-1_44.lib”
+     1>已完成生成项目“D:\softwares\Visual Studio 2010\Projects\IO services\IO services\IO services.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.30
